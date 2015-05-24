@@ -8,7 +8,7 @@ environment:
 dependencies:
   polymer: ">=0.16.0 <0.17.0"
   paper_elements: any
-  redstone: 0.6.0-alpha.3
+  redstone: any
 dev_dependencies:
   test: '>=0.12.0 <0.13.0'
   mock: '>=0.11.0+2 <0.12.0'
